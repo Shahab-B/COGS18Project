@@ -1,0 +1,10 @@
+# If your project has any requirements not included in anaconda, include them here
+
+pip istall flask
+pip install flask-ask
+pip install unidecode
+pip install regex
+pip install piazza
+
+Also Install Ngrok (Instructions in the Jupyter Notebook)
+Have an amazon and piazza account to be able to run the program.
